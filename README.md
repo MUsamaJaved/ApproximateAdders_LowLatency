@@ -6,7 +6,7 @@ GeAr is a low latency Generic Accuracy Configurable Adder that provides a higher
 These MATALB and Verilog models can allow software programmer as well as hardware designers to evaluate their code and design. To the best of our knowledge, this is the first open-source library of approximate adders that facilitates reproducible comparisons and further research and development in this direction across various layers of design abstraction.
 
 In case of usage, please refer to our corresponding DAC 2015 publication:
-Muhammad Shafique, Waqas Ahmad, Rehan Hafiz, Jörg Henkel, **A Low Latency Generic Accuracy Configurable Adder", in 52nd ACM/EDAC/IEEE Design Automation Conference & Exhibition (DAC), 2015**.
+**Muhammad Shafique, Waqas Ahmad, Rehan Hafiz, Jörg Henkel, A Low Latency Generic Accuracy Configurable Adder, in 52nd ACM/EDAC/IEEE Design Automation Conference & Exhibition (DAC), 2015**.
 
 ## Features
 All the MATLAB functions and hence the adders parameterizable and can be configured to construct any type of adder configuration.
