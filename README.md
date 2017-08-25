@@ -14,7 +14,7 @@ The error probability function can be used to calculate the error probability of
  
 #Main Contributors
 Muhammad Shafique: TU Wien, Austria
-Waqas Ahmad:
+Waqas Ahmad: NUST, Pakistan
 Rehan Hafiz: ITU, Pakistan
 Jörg Henkel: KIT, Germany
  
