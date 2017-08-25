@@ -1,1 +1,1 @@
-# ApproximateAdders_LowLatency
+# Low Latency Approximate Adders
