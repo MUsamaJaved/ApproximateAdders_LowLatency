@@ -14,10 +14,10 @@ All the MATLAB functions and hence the adders parameterizable and can be configu
 The error probability function can be used to calculate the error probability of GeAr adder as well as following previous adders i.e. ACA-I, ETAII, ACA-II and GDA.
  
 ## Main Contributors
--Muhammad Shafique: TU Wien, Austria
--Waqas Ahmad: NUST, Pakistan
--Rehan Hafiz: ITU, Pakistan
--Jörg Henkel: KIT, Germany
+- Muhammad Shafique: TU Wien, Austria
+- Waqas Ahmad: NUST, Pakistan
+- Rehan Hafiz: ITU, Pakistan
+- Jörg Henkel: KIT, Germany
  
 ## Software Guide
 The software directory contains two folders, MATLAB R2013a (containing MATLAB functions and codes) and ISE Design Suite 14.5 (containing VERILOG HDL codes). The MATLAB directory contains the functions of GeAr adder and previously developed adders like ACA-I, ETAII, ACA-II and GDA. It also contains the error probability calculation function. The details of input and output parameters of each function are mentioned in the function and also a text file is included. The ISE directory contains the codes of GeAr, ACA-I, ETAII, ACA-II and GDA for fixed configurations. Each adder has a text file that defines the configurations and inputs and outputs of the codes.
